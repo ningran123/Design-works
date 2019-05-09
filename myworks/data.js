@@ -1,0 +1,1 @@
+var myData={designer:{name:'视觉设计师 宁然',phone:'18410261171',tag:[""],bg:'#1e2025'},gallery:[{src:"myworks/001.png",w:3840,h:6690},{src:"myworks/006.png",w:3840,h:3198},{src:"myworks/005.png",w:3840,h:9717},{src:"myworks/002.png",w:3840,h:11865},{src:"myworks/007.png",w:3840,h:15000},{src:"myworks/003.png",w:3840,h:15966},{src:"myworks/004.png",w:3840,h:16695},]}
